@@ -11,6 +11,12 @@ Concepts learned:
 -   Handling Form Submittal
 -   Review 'this' in JavaScript
 -   Invoking Callbacks in Children
+-   Fetching data
+-   Axios vs fetch
+-   Viewing/Handling Request Results with Async Await
+-   Setting State After Async Requests
+-   Anticipating binding callbacks issues regarding the JS ‘this’
+-   Creating Custom Clients
 
 The Udemy course used throughout this repo
 
