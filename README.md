@@ -17,6 +17,9 @@ Concepts learned:
 -   Setting State After Async Requests
 -   Anticipating binding callbacks issues regarding the JS ‘this’
 -   Creating Custom Clients
+-   Rendering lists of components
+-   Review of Map Statements
+-   Understand the purpose of Keys in Lists and implementing it
 
 The Udemy course used throughout this repo
 
