@@ -20,6 +20,9 @@ Concepts learned:
 -   Rendering lists of components
 -   Review of Map Statements
 -   Understand the purpose of Keys in Lists and implementing it
+-   Grid CSS
+-   Accessing the DOM with Refs
+-   Using callback functions to create dynamic spans values and styling
 
 The Udemy course used throughout this repo
 
